@@ -1,2 +1,7 @@
+src/GPATH
+src/GRTAGS
+src/GTAGS
+*#
+*.#*
 Makefile
 objs/
